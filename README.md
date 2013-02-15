@@ -1,5 +1,4 @@
-BAH! DON'T CREATE THE DEFAULT
-Test
-====
+# Here is another example
+=========================
 
 Test for inclass Feb. 14, 2013
