@@ -1,4 +1,6 @@
-BAH! DON'T CREATE THE DEFAULT
+# Here is an example
+====================
+
 Test
 ====
 
